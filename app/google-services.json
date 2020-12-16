@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "934168022248",
+    "firebase_url": "https://omechle.firebaseio.com",
+    "project_id": "omechle",
+    "storage_bucket": "omechle.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:934168022248:android:5af1a2b6e685e484844d5d",
+        "android_client_info": {
+          "package_name": "com.zeneo.omechle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "934168022248-a2ggtog9msqlcbud17ntgh1nr7jrl24j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zeneo.omechle",
+            "certificate_hash": "93a4532d2493a4d8b312bc6215158f6f22580f36"
+          }
+        },
+        {
+          "client_id": "934168022248-rct7ain5v0vm9qqhsddrb6q9c7ngbqrf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKMWhN2yivDXLhV_UjhWoJwlkKOeSlIVU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "934168022248-rct7ain5v0vm9qqhsddrb6q9c7ngbqrf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
